@@ -69,4 +69,4 @@ npm run db:reset       # Reset SQLite database
 - Every generated project must have a root `/App.jsx` as entrypoint
 - Server actions live in `src/actions/`
 - Prisma client output is at `src/generated/prisma`
-- The database schema is defined in `prisma/schema.prisma` — always reference it to understand the structure of data stored in the database
+- The database schema is defined in `prisma/schema.prisma` — always reference it to understand the structure of data stored in the database. Temie
